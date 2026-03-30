@@ -17,11 +17,11 @@ Transform your body pose and hand gestures into hilarious meme matches in real-t
 ## 📸 Demo
 
 ### Face & Pose Detection with Live Matching
-![Pose Detection Demo](./docs/demo-shock.png)
+![Pose Detection Demo](./Screenshot%202026-03-30%20161901.png)
 *Real-time face mesh and pose skeleton with automatic meme matching.*
 
 ### Gesture Recognition in Action
-![Gesture Demo](./docs/demo-peace.png)
+![Gesture Demo](./Screenshot%202026-03-30%20161955.png)
 *Hand gesture detection matching to the "peace" meme template.*
 
 ## 🚀 Quick Start
