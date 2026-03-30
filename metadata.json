@@ -1,0 +1,17 @@
+{
+  "name": "PoseMeme",
+  "description": "Real-time pose-to-meme matcher using MediaPipe.",
+  "memeImages": [
+    "fuck.jpg",
+    "heart.jpg",
+    "listen.jpg",
+    "peace.jpg",
+    "shock.jpg",
+    "think.jpg",
+    "thubms up.jpg"
+  ],
+  "defaultImage": "default.jpg",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
